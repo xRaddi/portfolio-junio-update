@@ -64,7 +64,6 @@ a.logo_icon:hover {
 
 .container-black-background {
     display: flex;
-    width: 100vw;
     background-color: #000000;
 }
 
